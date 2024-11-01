@@ -1,6 +1,6 @@
 # Num-Guessing-React
 
-Enjoy the game : https://num-guessing-react.vercel.app/
+Enjoy the game : https://num-guessing-react.vercel.app/ (Beta version)
 
 # React + Vite
 
